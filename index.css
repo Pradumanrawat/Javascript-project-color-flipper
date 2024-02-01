@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.main{
+display: flex;
+min-height: 34vh;
+min-width: 45px;
+}
+.text{
+    min-height:3vh;
+    width:90vw;
+    justify-content: center;
+    text-align: center;
+    margin: 4px;
+    padding: 46px
+
+}
+.text h2{
+    
+    font-size: 3rem;
+    background-color: black;
+    color: white;
+    height: 47px;
+    padding: 44px;
+    border-radius: 88px;
+    margin: center;
+    flex-wrap: wrap;
+    border: 2px solid red;
+}
+button{
+    
+    height: 94px;
+    width: 209px;
+    margin-top: 23px;
+    padding: -4px;
+    font-size: 34px;
+    border-radius: 36px;
+    border:2px solid red;
+    cursor: pointer;
+}
